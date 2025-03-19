@@ -1,0 +1,16 @@
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part01.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part02.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part03.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part04.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part05.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part06.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part07.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part08.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part09.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part10.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part11.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part12.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part13.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part14.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part15.rar
+wget https://raw.githubusercontent.com/Benjamin8330/ubi-goggles/refs/heads/main/data/data.part16.rar
